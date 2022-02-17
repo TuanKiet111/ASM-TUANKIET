@@ -1,0 +1,57 @@
+article{
+    width: 940px;
+    min-height: 1200px;
+    border: 1px solid red;
+    margin: 0 auto;
+    
+    
+}
+
+article img{
+    width: 400px;
+    height: 300px;
+    margin-left: 48px;
+    margin-top: 25px;
+    float: left;
+    border: 3px solid red;
+    
+
+}
+/* article div{
+    width: 400px;
+    height: 300px;
+    padding-left: 48px;
+    padding-top: 25px;
+    
+} */
+
+
+.column{
+    width: 25%;
+    
+    float: left;
+}
+.san-pham{
+    border: 2px solid gray;
+    border-radius: 10px;
+    box-shadow: inset, 5px, gray;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.san-pham .ten{
+    font-size: large;
+    font-variant: small-caps;
+    color: blue;
+}
+.san-pham img{
+    max-width: 95%;
+}
+.san-pham .gia{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+.san-pham .gia del{
+    color: gray;
+}

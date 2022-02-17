@@ -1,0 +1,45 @@
+header{
+    width: 100%;
+    margin: 0 auto;
+    height: 50px;
+    text-align: center;
+    position: relative;
+    background-image: url(img/backgroud1.jpg);
+    
+}
+.header1{
+    text-align: center;
+}
+.logo{
+    color: yellow;
+    float: left;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 100px;
+}
+
+nav{
+    width: 80%;
+    margin: 0 auto;
+    height: 50px;
+    background-color: red;
+    margin-top: 10px;
+}
+article{
+    width: 60%;
+    height: 300px;
+    
+    background-color: blue;
+}
+aside{
+    width: 20%;
+    height: 300px;
+    background-color: black;
+    
+}
+.display{
+    display: inline-block;
+    margin: 0 auto;
+    
+}
